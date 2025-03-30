@@ -21,8 +21,8 @@ Após gerados o login e senha o programa deverá exibi-los na tela.
 O Login será a formado da concatenação da primeira letra de cada nome em maiúsculo. E a senha será formada da concatenação do primeiro dígito do valor ASCII Decimal de cada letra do Login.
 
 Ex: nome digitado: jose maria alves dos santos
-Login gerado: JMADS(códigos ASCII decimais: J=74, M=77, A=65, D=68, S=83)
-Senha gerada: 77668
+- Login gerado: JMADS(códigos ASCII decimais: J=74, M=77, A=65, D=68, S=83)
+- Senha gerada: 77668
 
 Obs: 
 Consistir a entrada de dados para que o nome da pessoa digitado:
